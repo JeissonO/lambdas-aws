@@ -46,8 +46,8 @@ El evento de esta funcion recibe el nombre de la instancia RDS y el codigo de la
 
 ```json
 {
-  "instance_mame": "stg-sipren-oracle-ee-rds",
+  "instance_mame": "dev-project-oracle-ee-rds",
   "operation": 1
 }
 ```
->En el ejemplo anterior el evento iniciara la instancia RDS con el nombre **stg-sipren-oracle-ee-rds**.
+>En el ejemplo anterior el evento iniciara la instancia RDS con el nombre **dev-project-oracle-ee-rds**.
