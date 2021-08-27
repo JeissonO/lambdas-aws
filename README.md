@@ -1,6 +1,6 @@
 # Lambda Functions
 
-Repositorio de funciones aws lambdas de uso transversal para todos los proyectos del CoE
+Repositorio de funciones aws lambdas de uso transversales
 
 ## Tabla de Contenido
 - [Lambda Functions](#lambda-functions)
